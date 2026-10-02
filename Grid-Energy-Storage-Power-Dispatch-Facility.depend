@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1790939891 source:c:\users\user\downloads\grid-energy-storage-power-dispatch-facility\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
